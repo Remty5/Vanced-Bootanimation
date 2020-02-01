@@ -21,9 +21,9 @@ Crafted using frame by frame teardown of Vanced Discord Server's avatar gif. Stu
 
 Before you flash this zip, pease backup your current animation by going to /system/media and renaming bootanimation.zip to bootanimation.zip.bak (this will help you to restore your current boot animation of something goes wrong)
 
-Changelog v1.0: 
--Initial launch
--Flashable ZIP for Custom Recoveries (tested TWRP only)
+Changelog v1.0:  
+-Initial launch  
+-Flashable ZIP for Custom Recoveries (tested TWRP only)  
 -added fancy README
 
 In order to restore your old bootanimation, go to /system/media, remove this bootanimation.zip and rename bootanimation.zip.bak back to bootanimation.zip
