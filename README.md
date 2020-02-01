@@ -30,7 +30,7 @@ and you're forced to use YouTube Vanced till February 30th. Also not compatible 
 
 --------------------------------------------------------------------------------------------------------
 
-Changelog v1.0:
+Changelog v1.0:  
 -Initial launch  
 -Magisk module support  
 -added fancy README  
