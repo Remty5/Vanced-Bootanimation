@@ -5,8 +5,8 @@ Want to give your phone a fancy look?
 You're a fan of YT Vanced mod?  
 If so, this mod is right for you!  
 
-Crafted using frame by frame teardown of Vanced Discord Server's avatar gif. Stunning,  
-all new, introducing Vanced Boot Animation... Pro... Max... SE... Plus... look i can  
+Crafted using frame by frame teardown of Vanced Discord Server's avatar gif. Stunning,
+all new, introducing Vanced Boot Animation... Pro... Max... SE... Plus... look i can
 keep going all day.
 
 -KevinX8: I was so tired of my Poco f1's stock boot animation, until I found out our fellow memeber
