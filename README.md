@@ -22,10 +22,10 @@ imagine I lived all my life without this.
 -noobbot: Uhh I'm Indian and here, we only have some kind of animations but tey're all boring  
 THIS, is a real innovation and I'm glad I had to see this animation. So uhh where's my 10 bux?
 
-Download this module in next 15 minutes and you'll get FREE module removal kit if you don't like  
+Download this module withinin next 15 minutes and you'll get FREE module removal kit if you don't like  
 this one. That's right, not 5, not 3, not 1 bux, but FREE!
 
-[small font] Terms and cnditions apply, by downloading this module you're selling a soul to Team Vanced  
+[small font] Terms and conditions apply, by downloading this module you're selling a soul to Team Vanced  
 and you're forced to use YouTube Vanced till February 30th. Also not compatible with Samsung devices.
 
 --------------------------------------------------------------------------------------------------------
@@ -34,6 +34,8 @@ Changelog v1.0:
 -Initial launch  
 -Magisk module support  
 -added fancy README  
+
+In order to restore your old bootanimation, just remove this module.
 
 See preview of animaton and contribute by suggesting ideas on XDA Thread:  
 https://forum.xda-developers.com/android/themes/bootanimation-vanced-style-boot-t4043147
