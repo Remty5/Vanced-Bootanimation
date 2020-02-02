@@ -24,7 +24,7 @@ Crafted using frame by frame teardown of Vanced Discord Server's avatar gif. Stu
 
 ---------------------------------------------------------------------------------------
 
-## Changelog
+# Changelog
 
 Changelog v1.0:  
 -Initial launch  
@@ -37,8 +37,8 @@ Before you flash this zip, pease backup your current animation by going to /syst
 
 In order to restore your old bootanimation, go to /system/media, remove this bootanimation.zip and rename bootanimation.zip.bak back to bootanimation.zip
 
-## Misc
+# Misc
 
-See preview of animaton and contribute by suggesting ideas on XDA Thread:
-https://forum.xda-developers.com/android/themes/bootanimation-vanced-style-boot-t4043147
+See preview of animaton and contribute by suggesting ideas on:  
+<a href="https://forum.xda-developers.com/android/themes/bootanimation-vanced-style-boot-t4043147"><img src="https://img.shields.io/badge/-XDA-orange.svg"></a> [XDA Thread](https://forum.xda-developers.com/android/themes/bootanimation-vanced-style-boot-t4043147)
 
