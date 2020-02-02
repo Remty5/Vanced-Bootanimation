@@ -14,7 +14,7 @@ ui_print ""
 ui_print "***********************************************************"
 
 #backup current bootanimation
-ui_print "Backing up curret animation"
+ui_print "Backing up current animation"
 mv /system/media/bootanimation.zip $MODPATH/system/media/bootanimation-backup.zip.bak
 
 ui_print ""
