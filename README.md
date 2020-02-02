@@ -34,12 +34,14 @@ this one. That's right, not 5, not 3, not 1 bux, but FREE!
 
 --------------------------------------------------------------------------------------------------------
 
-# Other Info
+# Changelog
 
-Changelog v1.0:  
+v1.0:  
 -Initial launch  
 -Magisk module support  
--added fancy README  
+-added fancy README
+
+# Misc
 
 In order to restore your old bootanimation, just remove this module.
 
