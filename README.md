@@ -24,7 +24,7 @@ god I was so wrong.
 -vortextriangle: This is perfect, the bezzels are small, animation is smooth and fancy, I can't
 imagine I lived all my life without this.
 
--noobbot: Uhh I'm Indian and here, we only have some kind of animations but they're all boring but
+-noobbot: Uhh I'm Indian and here, we only have some kind of animations and they're all boring but
 THIS, this is a real innovation and I'm glad I had to see this animation. So uhh where's my 10 bux?
 
 Download this module withinin next 15 minutes and you'll get FREE module removal kit if you don't like
