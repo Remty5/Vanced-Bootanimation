@@ -35,7 +35,7 @@ this one. That's right, not 5, not 3, not 1 bux, but FREE!
 --------------------------------------------------------------------------------------------------------
 
 # Changelog
-v1.1:
+v1.1:  
 -added automatic Backup/Restore
 
 v1.0:  
