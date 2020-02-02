@@ -1,3 +1,6 @@
+# Vanced Bootanimation 
+## By Xinto
+
 This ZIP file lets you replace your current boot animation with Vanced-style boot animation
 
 Are you tired of your stock boot animation?
@@ -7,6 +10,8 @@ If so, this mod is right for you!
 
 Crafted using frame by frame teardown of Vanced Discord Server's avatar gif. Stunning, all new, introducing Vanced Boot Animation... Pro... Max... SE... Plus... look i can keep going all day.
 
+## Reviews
+
 -KevinX8: I was so tired of my Poco f1's stock boot animation, until I found out our fellow memeber Xinto made a Vanced-style bootanimation. at first I thought this was some kind of scam, but I was wrong, now i use this bootanimation every day and I'm glad i found this.
 
 -Mattis6666: I always thought Xinto was some kind of dummy boi, until I found out he made this, my god I was so wrong.
@@ -15,18 +20,24 @@ Crafted using frame by frame teardown of Vanced Discord Server's avatar gif. Stu
 
 -noobbot: Uhh I'm Indian and here, we only have some kind of animations but they're all boring but THIS, this is a real innovation and I'm glad I had to see this animation. So uhh where's my 10 bux?
 
-[small font] Terms and conditions apply, by downloading this module you're selling a soul to Team Vanced and you're forced to use YouTube Vanced till February 30th. Also not compatible with Samsung devices.
+##### Terms and conditions apply, by downloading this module you're selling a soul to Team Vanced and you're forced to use YouTube Vanced till February 30th. Also not compatible with Samsung devices.
 
 ---------------------------------------------------------------------------------------
 
-Before you flash this zip, pease backup your current animation by going to /system/media and renaming bootanimation.zip to bootanimation.zip.bak (this will help you to restore your current boot animation of something goes wrong)
+## Changelog
 
 Changelog v1.0:  
 -Initial launch  
 -Flashable ZIP for Custom Recoveries (tested TWRP only)  
 -added fancy README
 
+# Important
+
+Before you flash this zip, pease backup your current animation by going to /system/media and renaming bootanimation.zip to bootanimation.zip.bak (this will help you to restore your current boot animation of something goes wrong)
+
 In order to restore your old bootanimation, go to /system/media, remove this bootanimation.zip and rename bootanimation.zip.bak back to bootanimation.zip
+
+## Misc
 
 See preview of animaton and contribute by suggesting ideas on XDA Thread:
 https://forum.xda-developers.com/android/themes/bootanimation-vanced-style-boot-t4043147
