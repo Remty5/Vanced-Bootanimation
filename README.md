@@ -1,3 +1,6 @@
+# Vanced Bootanimation 
+## By Xinto
+
 This module lets you replace your current boot animation with Vanced-style boot animation
 
 Are you tired of your stock boot animation?  
@@ -8,6 +11,8 @@ If so, this mod is right for you!
 Crafted using frame by frame teardown of Vanced Discord Server's avatar gif. Stunning,
 all new, introducing Vanced Boot Animation... Pro... Max... SE... Plus... look i can
 keep going all day.
+
+## Reviews
 
 -KevinX8: I was so tired of my Poco f1's stock boot animation, until I found out our fellow memeber
 Xinto made a Vanced-style bootanimation. at first I thought this was some kind of scam, but I was
@@ -25,10 +30,11 @@ THIS, this is a real innovation and I'm glad I had to see this animation. So uhh
 Download this module withinin next 15 minutes and you'll get FREE module removal kit if you don't like
 this one. That's right, not 5, not 3, not 1 bux, but FREE!
 
-[small font] Terms and conditions apply, by downloading this module you're selling a soul to Team Vanced
-and you're forced to use YouTube Vanced till February 30th. Also not compatible with Samsung devices.
+##### Terms and conditions apply, by downloading this module you're selling your soul to Team Vanced and you're forced to use YouTube Vanced till February 30th. Also not compatible with Samsung devices.
 
 --------------------------------------------------------------------------------------------------------
+
+# Other Info
 
 Changelog v1.0:  
 -Initial launch  
