@@ -3,6 +3,11 @@ ui_print("Vanced Style Boot Animation Remover");
 ui_print("Made by Xinto");
 ui_print("----------------------------");
 show_progress(1.34,2);
+run_program("sbin/busybox","mount", "/system")
+mount("yaffs2", "MTD", "system", /system")
 package_extract_file("vancedbot.sh", "/tmp/vancedboot.sh");
 run_program("/tmp/vancedboot.sh");
+set_perm(0 0 0644 "/system/bootanimation.zip")  
 delete(/tmp/vancedboot.sh")
+unmount("/system")
+ui_print("Done! Please reboot to see changes")
