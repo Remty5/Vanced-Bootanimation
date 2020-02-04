@@ -10,6 +10,7 @@ ui_print ""
 ui_print "Credits:"
 ui_print "Team Vanced"
 ui_print "vortextriangle"
+ui_print "Logan"
 ui_print ""
 ui_print "***********************************************************"
 

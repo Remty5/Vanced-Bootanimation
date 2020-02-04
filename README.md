@@ -43,6 +43,12 @@ v1.0:
 -Magisk module support  
 -added fancy README
 
+# Credits
+All credits goes to:
+-@Team Vanced (zanezam, KevinX8, razerman and Laura)
+-vortextriangle
+-@Logan
+
 # Misc
 
 In order to restore your old bootanimation, just remove this module.
