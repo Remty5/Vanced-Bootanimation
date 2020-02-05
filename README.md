@@ -45,9 +45,9 @@ v1.0:
 
 # Credits
 All credits goes to:
--@Team Vanced (zanezam, KevinX8, razerman and Laura)
--vortextriangle
--@Logan
+-@Team Vanced (zanezam, KevinX8, razerman and Laura)  
+-vortextriangle  
+-@Logan  
 
 # Misc
 
