@@ -44,7 +44,7 @@ v1.0:
 -added fancy README
 
 # Credits
-All credits goes to:
+All credits goes to:  
 -@Team Vanced (zanezam, KevinX8, razerman and Laura)  
 -vortextriangle  
 -@Logan  
