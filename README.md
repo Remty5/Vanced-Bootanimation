@@ -53,6 +53,8 @@ All credits goes to:
 
 In order to restore your old bootanimation, just remove this module.
 
+<a href="https://github.com/X1nto/Vanced-Bootanimation"><img src="https://img.shields.io/badge/-GitHub-grey"></a> [GitHub](https://github.com/X1nto/Vanced-Bootanimation)
+
 See preview of animaton and contribute by suggesting ideas on:  
 <a href="https://forum.xda-developers.com/android/themes/bootanimation-vanced-style-boot-t4043147"><img src="https://img.shields.io/badge/-XDA-orange.svg"></a> [XDA Thread](https://forum.xda-developers.com/android/themes/bootanimation-vanced-style-boot-t4043147)
 
