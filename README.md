@@ -62,4 +62,4 @@ See preview of animaton and contribute by suggesting ideas on:
 <a href="https://t.me/X1nto"><img src="https://img.shields.io/badge/-Telegram-blue"></a> [Telegram](https://t.me/X1nto)  
 <img src="https://img.shields.io/badge/-Discord-grey"> Xinto#0376  
 <a href="https://forum.xda-developers.com/member.php?u=7958411"><img src="https://img.shields.io/badge/-XDA-orange"></a> [XDA Profile](https://forum.xda-developers.com/member.php?u=7958411)  
-<a href="https://twitter.com/_Xinto_"><img src="https://img.shields.io/badge/-Twitter-informational"></a> [Twitter](https://twitter.com/_Xinto_) 
+<a href="https://twitter.com/X1nto"><img src="https://img.shields.io/badge/-Twitter-informational"></a> [Twitter](https://twitter.com/X1nto) 
